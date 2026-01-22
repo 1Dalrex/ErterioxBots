@@ -3,8 +3,8 @@
 ## 🔘 Navigation
 
 [![Bot Settings](https://img.shields.io/badge/-Bot%20Settings-blue)](#bot-settings)  
-[![Game Settings](https://img.shields.io/badge/-Game%20Settings-green)](#game-settings)
-[![How to Run the Bot](https://img.shields.io/badge/-How%20to%20Use-orange)](#how-to-use)
+[![Game Settings](https://img.shields.io/badge/-Game%20Settings-green)](#game-settings)  
+[![How to Run the Bot](https://img.shields.io/badge/-How%20to%20Use-orange)](#how-to-run-the-bot)  
 [![Logs](https://img.shields.io/badge/-Logs-gray)](#logs)
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
