@@ -306,8 +306,10 @@ The bot supports multiple operation modes, including updating buy/sell orders, b
     <li>Bot UI element not found</li>
     <li>Network errors (if used)</li>
     <li>Unexpected internal errors</li>
+    <li>Tesseract is not installed or not detected</li>
   </ul>
   <p>If the bot stops working or behaves incorrectly, check <b>log.txt</b> first.</p>
 </div>
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
