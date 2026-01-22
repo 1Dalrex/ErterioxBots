@@ -7,6 +7,8 @@ The bot supports multiple operation modes, including updating buy/sell orders, b
 
 ![Bot menu](documentation/imgs/bot_menu.png)
 
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+  
 <div style="border:1px solid #ccc; padding:15px; border-radius:10px; background:#f7f7f7; font-family:Arial, sans-serif; line-height:1.6;">
   <h3 style="margin:0 0 10px 0;">min_random_delay — Minimum Random Delay</h3>
   <p><b>Type:</b> float (seconds)<br>
