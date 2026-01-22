@@ -281,7 +281,33 @@ The bot supports multiple operation modes, including updating buy/sell orders, b
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
 
-## Logs
+<h2 id="logs">Logs</h2>
 
-- log.txt
-- error.txt
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+<div style="border:1px solid #ccc; padding:15px; border-radius:10px; background:#f7f7f7; font-family:Arial, sans-serif; line-height:1.6;">
+  <h3 style="margin:0 0 10px 0;">Automatic Folder and File Creation</h3>
+  <p>The bot automatically creates the required folder and files on the first run.</p>
+  <p><b>Path:</b><br>
+     <code>C:\Users\DALREX\Desktop\Erteriox\AlbionOnline\Trading</code></p>
+  <p>If the folder does not exist, it will be created automatically.</p>
+</div>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+<div style="border:1px solid #ccc; padding:15px; border-radius:10px; background:#f7f7f7; font-family:Arial, sans-serif; line-height:1.6;">
+  <h3 style="margin:0 0 10px 0;">log.txt</h3>
+  <p>All major errors and warnings are recorded in <b>log.txt</b>.  
+     Approximately 90% of common issues are logged here, including:</p>
+  <ul>
+    <li>Missing files (config, items list, etc.)</li>
+    <li>Incorrect file paths</li>
+    <li>Missing permissions</li>
+    <li>Bot UI element not found</li>
+    <li>Network errors (if used)</li>
+    <li>Unexpected internal errors</li>
+  </ul>
+  <p>If the bot stops working or behaves incorrectly, check <b>log.txt</b> first.</p>
+</div>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
