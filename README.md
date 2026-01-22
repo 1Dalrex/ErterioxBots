@@ -290,7 +290,7 @@ The bot supports multiple operation modes, including updating buy/sell orders, b
   <p>The bot automatically creates the required folder and files on the first run.</p>
   <p><b>Path:</b><br>
      <code>C:\Users\DALREX\Desktop\Erteriox\AlbionOnline\Trading</code></p>
-  <p>If the folder does not exist, it will be created automatically.</p>
+  <p>If the folder does not exist, it will be created automatically after first run.</p>
 </div>
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
