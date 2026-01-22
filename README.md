@@ -7,6 +7,10 @@ The bot supports multiple operation modes, including updating buy/sell orders, b
 
 ![Bot menu](documentation/imgs/bot_menu.png)
 
+<div style="border:1px solid #ccc; padding:10px; border-radius:8px;">
+  <b>min_random_delay</b> — minimum delay between actions (seconds).
+</div>
+
 min_random_delay — Minimum Random Delay
 
 Type: float (seconds)
