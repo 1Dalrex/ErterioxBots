@@ -214,12 +214,50 @@ The bot supports multiple operation modes, including updating buy/sell orders, b
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
 
-## Game Config
+<h2>Game Settings</h2>
 
-- Game resolution
-- Window position
-- Hotkeys
-- Interface scale
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+<div style="border:1px solid #ccc; padding:15px; border-radius:10px; background:#f7f7f7; font-family:Arial, sans-serif; line-height:1.6;">
+  <h3 style="margin:0 0 10px 0;">Language</h3>
+  <p><b>Requirement:</b> English</p>
+</div>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+<div style="border:1px solid #ccc; padding:15px; border-radius:10px; background:#f7f7f7; font-family:Arial, sans-serif; line-height:1.6;">
+  <h3 style="margin:0 0 10px 0;">Resolution</h3>
+  <p><b>Requirement:</b> 1920x1080</p>
+</div>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+<div style="border:1px solid #ccc; padding:15px; border-radius:10px; background:#f7f7f7; font-family:Arial, sans-serif; line-height:1.6;">
+  <h3 style="margin:0 0 10px 0;">Window Mode</h3>
+  <p><b>Requirement:</b> Windowed</p>
+</div>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+<div style="border:1px solid #ccc; padding:15px; border-radius:10px; background:#f7f7f7; font-family:Arial, sans-serif; line-height:1.6;">
+  <h3 style="margin:0 0 10px 0;">HUD Scale</h3>
+  <p><b>Requirement:</b> 70%</p>
+</div>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+<div style="border:1px solid #ccc; padding:15px; border-radius:10px; background:#f7f7f7; font-family:Arial, sans-serif; line-height:1.6;">
+  <h3 style="margin:0 0 10px 0;">Window Scale</h3>
+  <p><b>Requirement:</b> 80%</p>
+</div>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+<div style="border:1px solid #ccc; padding:15px; border-radius:10px; background:#f7f7f7; font-family:Arial, sans-serif; line-height:1.6;">
+  <h3 style="margin:0 0 10px 0;">Animations</h3>
+  <p><b>Recommended:</b> Disabled</p>
+  <p><b>Reason:</b> Animations can slow down the bot and cause incorrect element detection.</p>
+</div>
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
 
