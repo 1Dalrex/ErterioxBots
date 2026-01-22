@@ -1,3 +1,5 @@
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
 ## 🔘 Navigation
 
 [![Bot Settings](https://img.shields.io/badge/-Bot%20Settings-blue)](#bot-settings)  
