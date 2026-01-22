@@ -4,7 +4,7 @@
 
 [![Bot Settings](https://img.shields.io/badge/-Bot%20Settings-blue)](#bot-settings)  
 [![Game Settings](https://img.shields.io/badge/-Game%20Settings-green)](#game-settings)  
-[![How to Use](https://img.shields.io/badge/-How%20to%20Use-orange)](#how-to-use)  
+[![How to Run the Bot](https://img.shields.io/badge/-How%20to%20Use-orange)](#how-to-use)  
 [![Logs](https://img.shields.io/badge/-Logs-gray)](#logs)
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
@@ -261,12 +261,23 @@ The bot supports multiple operation modes, including updating buy/sell orders, b
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
 
-## How to Use
+<h2>How to Run the Bot</h2>
 
-1. Run the bot.
-2. Set the settings.
-3. Click Start.
-4. Bot starts working.
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+<div style="border:1px solid #ccc; padding:15px; border-radius:10px; background:#f7f7f7; font-family:Arial, sans-serif; line-height:1.6;">
+  <ol>
+    <li>Download all files from GitHub (download the <b>.exe</b> manually, because GitHub does not include it in the ZIP archive).</li>
+    <li>Run the bot once.</li>
+    <li>Move all files from the created folder to:<br>
+        <b>C:\Users\DALREX\Desktop\Erteriox\AlbionOnline\Trading</b></li>
+    <li>Before starting the bot, make sure to select the <b>English input language</b>.</li>
+    <li>Run the bot again.</li>
+    <li>Configure the settings according to the instructions above.</li>
+    <li>Click <b>Start</b>.</li>
+    <li>Enjoy.</li>
+  </ol>
+</div>
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
 
