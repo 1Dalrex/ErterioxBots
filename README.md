@@ -3,7 +3,7 @@
 ## 🔘 Navigation
 
 [![Bot Settings](https://img.shields.io/badge/-Bot%20Settings-blue)](#bot-settings)  
-[![Game Settings](https://img.shields.io/badge/-Game%20Config-green)](#game-settings)  
+[![Game Settings](https://img.shields.io/badge/-Game%20Settings-green)](#game-settings)  
 [![How to Use](https://img.shields.io/badge/-How%20to%20Use-orange)](#how-to-use)  
 [![Logs](https://img.shields.io/badge/-Logs-gray)](#logs)
 
