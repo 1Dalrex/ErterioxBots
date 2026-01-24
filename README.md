@@ -221,8 +221,8 @@ The bot supports multiple operation modes, including updating buy/sell orders, b
   <p><b>What it does:</b><br>
      Defines how sell orders are placed by the bot.</p>
   <p><b>Possible values:</b><br>
-     <b>single</b> — sells items one by one (one item per sell order).<br>
-     <b>bulk</b> — sells multiple items in one operation (if supported by the current mode).</p>
+     <b>single</b> — collect pieces for sale.<br>
+     <b>bulk</b> — collect all items in one operation for sale.</p>
   <p><b>Interaction:</b><br>
      Used in sell-related modes such as <b>Sell X Items</b>, <b>Update Sell Orders</b>, and <b>24/7</b>.
      May affect required delays and click count during selling operations.</p>
