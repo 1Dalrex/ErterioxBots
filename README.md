@@ -1,5 +1,57 @@
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
 
+<h2>📦 Item Format</h2>
+
+<p>Each item in the items list must follow this format:</p>
+
+<pre style="background:#f7f7f7; padding:10px; border-radius:6px; border:1px solid #ccc;">
+item tier.enchant [cat:category][subcat:subcategory][amount][qua:quality]
+</pre>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+<h3>Field description</h3>
+<ul>
+  <li><b>item</b> — item name (string)</li>
+  <li><b>tier</b> — item tier (e.g. 4, 5, 6)</li>
+  <li><b>enchant</b> — enchantment level (0–4)</li>
+  <li><b>cat:category</b> <i>(optional)</i> — market category</li>
+  <li><b>subcat:subcategory</b> <i>(optional)</i> — market subcategory</li>
+  <li><b>amount</b> <i>(optional)</i> — amount to buy or sell</li>
+  <li><b>qua:quality</b> <i>(optional)</i> — item quality (1–5)</li>
+</ul>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+<h3>Examples</h3>
+<pre style="background:#f7f7f7; padding:10px; border-radius:6px; border:1px solid #ccc;">
+Adept's bag 4.0 [cat:Bags][subcat:Bags][10][qua:normal]
+Sword 6.1 [100]
+cape 5.2 [qua:excellent][subcat:Bags][cat:cApe][10]
+</pre>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
+<div style="border:1px solid #ccc; padding:15px; border-radius:10px; background:#f7f7f7; font-family:Arial, sans-serif; line-height:1.6;">
+  <h3 style="margin:0 0 10px 0;">Notes</h3>
+
+  <ul>
+    <li><b>Letter case does not matter</b> — item names, categories, and subcategories are <b>case-insensitive</b>.</li>
+    <li><b>Additional arguments order does not matter</b> — optional parameters
+        (<code>cat</code>, <code>subcat</code>, <code>amount</code>, <code>qua</code>)
+        can be placed in <b>any order</b>.</li>
+    <li><b>Tier normalization</b> — the following values are treated as the same:
+      <ul>
+        <li><code>4</code> = <code>4.0</code></li>
+        <li><code>4.</code> = <code>4.0</code></li>
+        <li><code>4.1</code> = <code>4.0</code></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+<hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
+
 ## 🔘 Navigation
 
 [![Bot Settings](https://img.shields.io/badge/-Bot%20Settings-blue)](#bot-settings)  
