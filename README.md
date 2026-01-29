@@ -17,8 +17,8 @@ item tier.enchant [cat:category][subcat:subcategory][amount][qua:quality]
   <li><b>enchant</b> — enchantment level (0–4)</li>
   <li><b>cat:category</b> <i>(optional)</i> — market category</li>
   <li><b>subcat:subcategory</b> <i>(optional)</i> — market subcategory</li>
-  <li><b>amount</b> <i>(optional)</i> — amount to buy or sell</li>
-  <li><b>qua:quality</b> <i>(optional)</i> — item quality (1–5)</li>
+  <li><b>amount</b> <i>(optional)</i> — amount to buy</li>
+  <li><b>qua:quality</b> <i>(optional)</i> — item quality (normal, good, outstanding, excellent, masterpiece)</li>
 </ul>
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
