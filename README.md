@@ -68,7 +68,7 @@ The user launches the application, configures the settings, and starts the bot.
 
 The bot supports multiple operation modes, including updating buy/sell orders, buying items, selling items, cancelling orders, and 24/7 continuous operation.
 
-![Bot menu](documentation/imgs/bot_menu.png)
+![Bot menu](documentation/imgs/bot_menu2.png)
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
 
