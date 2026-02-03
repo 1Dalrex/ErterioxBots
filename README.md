@@ -5,7 +5,7 @@
 <p>Each item in the items list must follow this format:</p>
 
 <pre style="background:#f7f7f7; padding:10px; border-radius:6px; border:1px solid #ccc;">
-item tier.enchant [cat:category][amount][qua:quality]
+item tier.enchant [amount][cat:category][qua:quality]
 </pre>
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
@@ -26,7 +26,7 @@ item tier.enchant [cat:category][amount][qua:quality]
 <pre style="background:#f7f7f7; padding:10px; border-radius:6px; border:1px solid #ccc;">
 Adept's bag 4.0 [cat:Bags][subcat:4][10][qua:normal]
 Sword 6.1 [100]
-cape 5.2 [qua:excellent][cat:3][cat:cApe][10]
+cape 5.2 [qua:excellent][cat:3][10]
 </pre>
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
@@ -35,7 +35,7 @@ cape 5.2 [qua:excellent][cat:3][cat:cApe][10]
   <h3 style="margin:0 0 10px 0;">Notes</h3>
 
   <ul>
-    <li><b>Letter case does not matter</b> — item names, categories, and subcategories are <b>case-insensitive</b>.</li>
+    <li><b>Letter case does not matter</b> — item names and categories are <b>case-insensitive</b>.</li>
     <li><b>Additional arguments order does not matter</b> — optional parameters
         (<code>cat</code>, <code>subcat</code>, <code>amount</code>, <code>qua</code>)
         can be placed in <b>any order</b>.</li>
