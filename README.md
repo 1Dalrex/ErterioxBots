@@ -24,7 +24,7 @@ item tier.enchant [amount][cat:category][qua:quality]
 
 <h3>Examples</h3>
 <pre style="background:#f7f7f7; padding:10px; border-radius:6px; border:1px solid #ccc;">
-Adept's bag 4.0 [cat:Bags][subcat:4][10][qua:normal]
+Adept's bag 4.0 [cat:4][[10][qua:normal]
 Sword 6.1 [100]
 cape 5.2 [qua:excellent][cat:3][10]
 </pre>
@@ -37,7 +37,7 @@ cape 5.2 [qua:excellent][cat:3][10]
   <ul>
     <li><b>Letter case does not matter</b> — item names and categories are <b>case-insensitive</b>.</li>
     <li><b>Additional arguments order does not matter</b> — optional parameters
-        (<code>cat</code>, <code>subcat</code>, <code>amount</code>, <code>qua</code>)
+        (<code>cat</code>, <code>amount</code>, <code>qua</code>)
         can be placed in <b>any order</b>.</li>
     <li><b>Tier normalization</b> — the following values are treated as the same:
       <ul>
