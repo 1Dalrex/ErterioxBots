@@ -366,7 +366,7 @@ The bot supports multiple operation modes, including updating buy/sell orders, b
     <li>Download all files from GitHub (download the <b>.exe</b> manually, because GitHub does not include it in the ZIP archive).</li>
     <li>Run the bot once.</li>
     <li>Move all files from the created folder to:<br>
-        <b>C:\Users\DALREX\Desktop\Erteriox\AlbionOnline\Trading</b></li>
+        <b>C:\Users\%USER%\Desktop\Erteriox\AlbionOnline\Trading</b></li>
     <li>Before starting the bot, make sure to select the <b>English input language</b>.</li>
     <li>Run the bot again.</li>
     <li>Configure the settings according to the instructions above.</li>
@@ -385,7 +385,7 @@ The bot supports multiple operation modes, including updating buy/sell orders, b
   <h3 style="margin:0 0 10px 0;">Automatic Folder and File Creation</h3>
   <p>The bot automatically creates the required folder and files on the first run.</p>
   <p><b>Path:</b><br>
-     <code>C:\Users\DALREX\Desktop\Erteriox\AlbionOnline\Trading</code></p>
+     <code>C:\Users\%USER%\Desktop\Erteriox\AlbionOnline\Trading</code></p>
   <p>If the folder does not exist, it will be created automatically after first run.</p>
 </div>
 
