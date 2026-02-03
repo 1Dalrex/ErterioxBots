@@ -5,7 +5,7 @@
 <p>Each item in the items list must follow this format:</p>
 
 <pre style="background:#f7f7f7; padding:10px; border-radius:6px; border:1px solid #ccc;">
-item tier.enchant [cat:category][subcat:subcategory][amount][qua:quality]
+item tier.enchant [cat:category][amount][qua:quality]
 </pre>
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
@@ -15,8 +15,7 @@ item tier.enchant [cat:category][subcat:subcategory][amount][qua:quality]
   <li><b>item</b> — item name (string)</li>
   <li><b>tier</b> — item tier (e.g. 4, 5, 6)</li>
   <li><b>enchant</b> — enchantment level (0–4)</li>
-  <li><b>cat:category</b> <i>(optional)</i> — market category</li>
-  <li><b>subcat:subcategory</b> <i>(optional)</i> — market subcategory</li>
+  <li><b>cat:category</b> <i>(optional)</i> — market category (1 - 16)</li>
   <li><b>amount</b> <i>(optional)</i> — amount to buy</li>
   <li><b>qua:quality</b> <i>(optional)</i> — item quality (normal, good, outstanding, excellent, masterpiece)</li>
 </ul>
@@ -25,9 +24,9 @@ item tier.enchant [cat:category][subcat:subcategory][amount][qua:quality]
 
 <h3>Examples</h3>
 <pre style="background:#f7f7f7; padding:10px; border-radius:6px; border:1px solid #ccc;">
-Adept's bag 4.0 [cat:Bags][subcat:Bags][10][qua:normal]
+Adept's bag 4.0 [cat:Bags][subcat:4][10][qua:normal]
 Sword 6.1 [100]
-cape 5.2 [qua:excellent][subcat:Bags][cat:cApe][10]
+cape 5.2 [qua:excellent][cat:3][cat:cApe][10]
 </pre>
 
 <hr style="border:0; border-top:1px solid #ddd; margin:15px 0;">
