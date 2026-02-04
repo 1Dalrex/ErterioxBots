@@ -1,0 +1,179 @@
+avalonian shard 4.0 [cat:Artifact] [subcat:Artifact Fragments] [qua:normal] [100]
+avalonian shard 5.0 [cat:Artifact] [subcat:Artifact Fragments] [qua:normal] [100]
+
+
+
+
+riding horse 3.0 [cat:Mount] [subcat:Base Mounts] [qua:normal] [4]
+transport ox 3.0 [cat:Mount] [subcat:Base Mounts] [qua:normal] [3]
+giant stag 4.0 [cat:Mount] [subcat:Base Mounts] [qua:normal] [1]
+armored horse 5.0 [cat:Mount] [subcat:Base Mounts] [qua:normal] [1]
+swiftclaw 5.1 [cat:Mount] [subcat:Base Mounts] [qua:normal] [1]
+
+
+
+
+bag 3.0 [cat:Bags] [subcat:Bags] [qua:normal] [4]
+bag 4.0 [cat:Bags] [subcat:Bags] [qua:normal] [8]
+bag 4.1 [cat:Bags] [subcat:Bags] [qua:normal] [4]
+bag 5.0 [cat:Bags] [subcat:Bags] [qua:normal] [2]
+bag 5.1 [cat:Bags] [subcat:Bags] [qua:normal] [2]
+bag 6.0 [cat:Bags] [subcat:Bags] [qua:normal] [2]
+
+
+Satchel of insight 4.0 [cat:Bags] [subcat:Bags] [qua:normal] [3]
+Satchel of insight 4.1 [cat:Bags] [subcat:Bags] [qua:normal] [4]
+Satchel of insight 5.0 [cat:Bags] [subcat:Bags] [qua:normal] [1]
+Satchel of insight 5.1 [cat:Bags] [subcat:Bags] [qua:normal] [1]
+Satchel of insight 6.0 [cat:Bags] [subcat:Bags] [qua:normal] [1]
+
+
+
+
+Cape 4.0 [cat:Capes] [subcat:Cape] [qua:normal] [5]
+Cape 4.1 [cat:Capes] [subcat:Cape] [qua:normal] [4]
+Cape 5.0 [cat:Capes] [subcat:Cape] [qua:normal] [3]
+
+
+
+
+tome of spells 4.0 [cat:Off-hands] [subcat:mage] [qua:normal] [8]
+tome of spells 4.1 [cat:Off-hands] [subcat:mage] [qua:normal] [4]
+tome of spells 5.0 [cat:Off-hands] [subcat:mage] [qua:normal] [3]
+
+
+torch 4.0 [cat:Off-hands] [subcat:hunter] [qua:normal] [8]
+torch 4.1 [cat:Off-hands] [subcat:hunter] [qua:normal] [4]
+torch 5.0 [cat:Off-hands] [subcat:hunter] [qua:normal] [3]
+
+
+shield 4.0 [cat:Off-hands] [subcat:warrior] [qua:normal] [8]
+shield 4.1 [cat:Off-hands] [subcat:warrior] [qua:normal] [4]
+shield 5.0 [cat:Off-hands] [subcat:warrior] [qua:normal] [3]
+
+sarcophagus 4.0 [cat:Off-hands] [subcat:warrior] [qua:normal] [8]
+sarcophagus 4.0 [cat:Off-hands] [subcat:warrior] [qua:normal] [4]
+sarcophagus 4.0 [cat:Off-hands] [subcat:warrior] [qua:normal] [3]
+
+caitiff shield 4.0 [cat:Off-hands] [subcat:warrior] [qua:normal] [8]
+caitiff shield 4.0 [cat:Off-hands] [subcat:warrior] [qua:normal] [4]
+caitiff shield 4.0 [cat:Off-hands] [subcat:warrior] [qua:normal] [3]
+
+
+
+
+soilder boots 4.0 [cat:Foot armor] [qua:normal] [3]
+soilder boots 4.1 [cat:Foot armor] [qua:normal] [3]
+soilder boots 5.0 [cat:Foot armor] [qua:normal] [3]
+
+knight boots 4.0 [cat:Foot armor] [qua:normal] [3]
+knight boots 4.1 [cat:Foot armor] [qua:normal] [3]
+knight boots 5.0 [cat:Foot armor] [qua:normal] [3]
+
+guardian boots 4.0 [cat:Foot armor] [qua:normal] [3]
+guardian boots 4.1 [cat:Foot armor] [qua:normal] [3]
+guardian boots 5.0 [cat:Foot armor] [qua:normal] [3]
+
+mercenary shoes 4.0 [cat:Foot armor] [qua:normal] [3]
+mercenary shoes 4.1 [cat:Foot armor] [qua:normal] [3]
+mercenary shoes 5.0 [cat:Foot armor] [qua:normal] [3]
+
+hunter shoes 4.0 [cat:Foot armor] [qua:normal] [3]
+hunter shoes 4.1 [cat:Foot armor] [qua:normal] [3]
+hunter shoes 5.0 [cat:Foot armor] [qua:normal] [3]
+
+assasin shoes 4.0 [cat:Foot armor] [qua:normal] [3]
+assasin shoes 4.1 [cat:Foot armor] [qua:normal] [3]
+assasin shoes 5.0 [cat:Foot armor] [qua:normal] [3]
+
+scholar sandals 4.0 [cat:Foot armor] [qua:normal] [3]
+scholar sandals 4.1 [cat:Foot armor] [qua:normal] [3]
+scholar sandals 5.0 [cat:Foot armor] [qua:normal] [3]
+
+cleric sandals 4.0 [cat:Foot armor] [qua:normal] [3]
+cleric sandals 4.1 [cat:Foot armor] [qua:normal] [3]
+cleric sandals 5.0 [cat:Foot armor] [qua:normal] [3]
+
+mage sandals 4.0 [cat:Foot armor] [qua:normal] [3]
+mage sandals 4.1 [cat:Foot armor] [qua:normal] [3]
+mage sandals 5.0 [cat:Foot armor] [qua:normal] [3]
+
+
+
+
+
+soilder helmet 4.0 [cat:Head armor] [qua:normal] [3]
+soilder helmet 4.1 [cat:Head armor] [qua:normal] [3]
+soilder helmet 5.0 [cat:Head armor] [qua:normal] [3]
+
+knight helmet 4.0 [cat:Head armor] [qua:normal] [3]
+knight helmet 4.1 [cat:Head armor] [qua:normal] [3]
+knight helmet 5.0 [cat:Head armor] [qua:normal] [3]
+
+guardian helmet 4.0 [cat:Head armor] [qua:normal] [3]
+guardian helmet 4.1 [cat:Head armor] [qua:normal] [3]
+guardian helmet 5.0 [cat:Head armor] [qua:normal] [3]
+
+mercenary hood 4.0 [cat:Head armor] [qua:normal] [3]
+mercenary hood 4.1 [cat:Head armor] [qua:normal] [3]
+mercenary hood 5.0 [cat:Head armor] [qua:normal] [3]
+
+hunter hood 4.0 [cat:Head armor] [qua:normal] [3]
+hunter hood 4.1 [cat:Head armor] [qua:normal] [3]
+hunter hood 5.0 [cat:Head armor] [qua:normal] [3]
+
+assasin hood 4.0 [cat:Head armor] [qua:normal] [3]
+assasin hood 4.1 [cat:Head armor] [qua:normal] [3]
+assasin hood 5.0 [cat:Head armor] [qua:normal] [3]
+
+scholar cowl 4.0 [cat:Head armor] [qua:normal] [3]
+scholar cowl 4.1 [cat:Head armor] [qua:normal] [3]
+scholar cowl 5.0 [cat:Head armor] [qua:normal] [3]
+
+cleric cowl 4.0 [cat:Head armor] [qua:normal] [3]
+cleric cowl 4.1 [cat:Head armor] [qua:normal] [3]
+cleric cowl 5.0 [cat:Head armor] [qua:normal] [3]
+
+mage cowl 4.0 [cat:Head armor] [qua:normal] [3]
+mage cowl 4.1 [cat:Head armor] [qua:normal] [3]
+mage cowl 5.0 [cat:Head armor] [qua:normal] [3]
+
+
+
+
+
+soilder armor 4.0 [cat:Head armor] [qua:normal] [3]
+soilder armor 4.1 [cat:Head armor] [qua:normal] [3]
+soilder armor 5.0 [cat:Head armor] [qua:normal] [3]
+
+knight armor 4.0 [cat:Head armor] [qua:normal] [3]
+knight armor 4.1 [cat:Head armor] [qua:normal] [3]
+knight armor 5.0 [cat:Head armor] [qua:normal] [3]
+
+guardian armor 4.0 [cat:Head armor] [qua:normal] [3]
+guardian armor 4.1 [cat:Head armor] [qua:normal] [3]
+guardian armor 5.0 [cat:Head armor] [qua:normal] [3]
+
+mercenary jacket 4.0 [cat:Head armor] [qua:normal] [3]
+mercenary jacket 4.1 [cat:Head armor] [qua:normal] [3]
+mercenary jacket 5.0 [cat:Head armor] [qua:normal] [3]
+
+hunter jacket 4.0 [cat:Head armor] [qua:normal] [3]
+hunter jacket 4.1 [cat:Head armor] [qua:normal] [3]
+hunter jacket 5.0 [cat:Head armor] [qua:normal] [3]
+
+assasin jacket 4.0 [cat:Head armor] [qua:normal] [3]
+assasin jacket 4.1 [cat:Head armor] [qua:normal] [3]
+assasin jacket 5.0 [cat:Head armor] [qua:normal] [3]
+
+scholar robe 4.0 [cat:Head armor] [qua:normal] [3]
+scholar robe 4.1 [cat:Head armor] [qua:normal] [3]
+scholar robe 5.0 [cat:Head armor] [qua:normal] [3]
+
+cleric robe 4.0 [cat:Head armor] [qua:normal] [3]
+cleric robe 4.1 [cat:Head armor] [qua:normal] [3]
+cleric robe 5.0 [cat:Head armor] [qua:normal] [3]
+
+mage robe 4.0 [cat:Head armor] [qua:normal] [3]
+mage robe 4.1 [cat:Head armor] [qua:normal] [3]
+mage robe 5.0 [cat:Head armor] [qua:normal] [3]
