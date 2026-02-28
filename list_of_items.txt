@@ -1,0 +1,3 @@
+Adept's Bag	4.1	[5]	[cat:3]
+Adept's Cape    4.1	[5]	[cat:5]
+Adept's Cape    4.1	[5]
